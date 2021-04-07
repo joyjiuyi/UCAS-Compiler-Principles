@@ -10,3 +10,5 @@
 * Chapter 3
   * [Assignment 1](Chapter3/Assignment1.md)
   * [Assignment 2](Chapter3/Assignment2.md)
+* Chapter 4
+  * [Assignment 1](Chapter4/Assignment1.md)
