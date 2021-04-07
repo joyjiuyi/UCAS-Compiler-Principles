@@ -9,3 +9,4 @@
   * [Assignment 2](Chapter2/Assignment2.md)
 * Chapter 3
   * [Assignment 1](Chapter3/Assignment1.md)
+  * [Assignment 2](Chapter3/Assignment2.md)
