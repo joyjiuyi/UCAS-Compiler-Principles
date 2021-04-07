@@ -31,9 +31,9 @@
 | :--- | :--------------------------------------------------------------------------- | :------------- | :-------------------- |
 | 0    | $\epsilon\text{-}closure(0) = \{0\}$                                         | $\mathtt{a}$   | $\mathbf{false}$      |
 | 1    | $\epsilon\text{-}closure(move(\{0\}, \mathtt{a})) = \{0, 1\}$                | $\mathtt{a}$   | $\mathbf{false}$      |
-| 1    | $\epsilon\text{-}closure(move(\{0, 1\}, \mathtt{a})) = \{0, 1, 2\}$          | $\mathtt{b}$   | $\mathbf{false}$      |
-| 1    | $\epsilon\text{-}closure(move(\{0, 1, 2\}, \mathtt{b})) = \{0, 1, 2, 3\}$    | $\mathtt{b}$   | $\mathbf{false}$      |
-| 1    | $\epsilon\text{-}closure(move(\{0, 1, 2, 3\}, \mathtt{b})) = \{0, 1, 2, 3\}$ | $\mathbf{eof}$ | $\mathbf{true}$       |
+| 2    | $\epsilon\text{-}closure(move(\{0, 1\}, \mathtt{a})) = \{0, 1, 2\}$          | $\mathtt{b}$   | $\mathbf{false}$      |
+| 3    | $\epsilon\text{-}closure(move(\{0, 1, 2\}, \mathtt{b})) = \{0, 1, 2, 3\}$    | $\mathtt{b}$   | $\mathbf{false}$      |
+| 4    | $\epsilon\text{-}closure(move(\{0, 1, 2, 3\}, \mathtt{b})) = \{0, 1, 2, 3\}$ | $\mathbf{eof}$ | $\mathbf{true}$       |
 
 由于，$S \cap F = \{3\} \neq \emptyset$，于是，$\mathbf{return}\ \mathtt{"yes"}$。
 
