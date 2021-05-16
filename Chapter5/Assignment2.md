@@ -36,6 +36,8 @@ $$
 
 $pn$ 参数为前缀表达式。
 
+<div style="page-break-after:always;"></div>
+
 ## 2
 改写下面的 SDT：
 $$
@@ -96,8 +98,6 @@ $$ -->
 
 
 ### 解
-新增的部分前添加了 $*$，以方便对比。
-
 (1) 新的 SDD 如下：
 
 | Production                                             | Semantic Rules                                                                                                                                          |
@@ -134,3 +134,4 @@ $$
 \end{alignedat}
 $$
 
+新增的部分前添加了 $*$，以方便对比。

@@ -5,8 +5,8 @@
 
 (2) 使用扩充后得到的 SDD，给出表达式 $\mathtt{3 * ( 4 + 5 )} \mathbf{n}$ 对应的注释语法分析树。
 
-<img src="./Fig.5.1.png" style="width:30em;">
-<img src="./Fig.5.4.png" style="width:32em;">
+<img src="./Fig.5.1.png" style="width:24em;">
+<img src="./Fig.5.4.png" style="width:25.6em;">
 
 ### 解
 
