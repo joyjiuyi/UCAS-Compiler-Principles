@@ -17,3 +17,4 @@
 * Chapter 5
   * [Assignment 1](Chapter5/Assignment1.md)
   * [Assignment 2](Chapter5/Assignment2.md)
+  * [Assignment 3](Chapter5/Assignment3.md)
