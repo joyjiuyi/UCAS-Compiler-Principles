@@ -59,3 +59,42 @@ t9 = t5 + t8
 t10 = a[t9]
 x = t10
 ```
+
+
+## 3
+假定图 6-26 中的函数 widen 可以处理图 6-26a 的层次结构中的所有类型，
+
+翻译下列表达式。假定 c 和 d 是 char 型，s 和 t 是 short 型，i 和 j 是 int 型，x 是 float 型。
+
+(1) `x = s + c`  
+(2) `i = s + c`  
+(3) `x = ( s + c ) * ( t + d )`  
+
+### 解
+
+(1) 
+```
+t1 = (int) s
+t2 = (int) c
+t3 = t1 + t2
+x = (float) t3
+```
+
+(2)
+```
+t1 = (int) s
+t2 = (int) c
+i = t1 + t2
+```
+
+(3)
+```
+t1 = (int) s
+t2 = (int) c
+t3 = t1 + t2
+t4 = (int) t
+t5 = (int) d
+t6 = t4 + t5
+t7 = t3 * t6
+x = (float) t7
+```
