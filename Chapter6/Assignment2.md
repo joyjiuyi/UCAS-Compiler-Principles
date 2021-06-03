@@ -44,3 +44,18 @@ T ->    record '{'  { Evn.push(top), top = new Evn();
 ### 解
 
 <img src="./2-2-1.svg">
+
+得到如下三地址代码：
+```
+t1 = i * bi_width
+t2 = j * bj_width
+t3 = t1 + t2
+t4 = b[t3]
+t5 = t4 * abijwidth
+t6 = c_width
+t7 = c[t6]
+t8 = t6 * ckwidth
+t9 = t5 + t8
+t10 = a[t9]
+x = t10
+```
