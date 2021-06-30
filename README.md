@@ -24,3 +24,6 @@
   * [Assignment 3](Chapter6/Assignment3.md)
 * Chapter 7
   * [Assignment 1](Chapter7/Assignment1.md)
+* Chapter 8
+  * [Assignment 1](Chapter8/Assignment1.md)
+  * [Assignment 2](Chapter8/Assignment2.md)
