@@ -28,3 +28,4 @@
   * [Assignment 1](Chapter8/Assignment1.md)
   * [Assignment 2](Chapter8/Assignment2.md)
   * [Assignment 3](Chapter8/Assignment3.md)
+  * [Assignment 4](Chapter8/Assignment4.md)
