@@ -29,3 +29,7 @@
   * [Assignment 2](Chapter8/Assignment2.md)
   * [Assignment 3](Chapter8/Assignment3.md)
   * [Assignment 4](Chapter8/Assignment4.md)
+
+
+## Note
+仅供学习参考，不保证正确性。请勿用于不良用途。
